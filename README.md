@@ -1,2 +1,7 @@
-# financial-literacy-cert
-UNICEF Financial Literacy course certificate demonstrating foundational knowledge of accounting concepts, financial statements, basic financial records, and financial literacy principles.
+# UNICEF Financial Literacy Certificate
+
+Certificate of completion for the **UNICEF Financial Literacy** course, demonstrating foundational knowledge of accounting concepts, financial records, and financial literacy principles.
+
+## Certificate
+
+[View Certificate](./Financial%20literacy.pdf)
